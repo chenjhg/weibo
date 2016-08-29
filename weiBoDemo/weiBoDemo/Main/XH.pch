@@ -1,0 +1,21 @@
+//
+//  XH.pch
+//  weiBoDemo
+//
+//  Created by wjm on 16/8/19.
+//  Copyright © 2016年 XH. All rights reserved.
+//
+
+
+#import "UIView+EXtension.h"
+#import "UIBarButtonItem+EXtension.h"
+
+#ifndef XH_pch
+#define XH_pch
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* XH_pch */
